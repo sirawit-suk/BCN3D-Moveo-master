@@ -1,0 +1,8 @@
+requirement 
+density 25 % 
+---ก่อนสอบ---
+2M2H 157 gram
+2M2M 157 gram
+3M2 170 gram
+---หลังสอบ---
+> ใส่ model ตรงนี้ <  >ใส่ gram ตรงนี้<
